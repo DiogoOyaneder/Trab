@@ -18,7 +18,7 @@
 - https://grimgar.fandom.com/wiki/Hai_to_Gensou_no_Grimgar_Wikia  
 - https://hades.fandom.com/wiki/Hades_Wiki
 - https://us.diablo3.blizzard.com/en-us/
-
+- https://us.diablo3.blizzard.com/en-us/
 ```mermaid
 
 flowchart TB
@@ -61,3 +61,4 @@ S -- True --> ZF{"You cant handle it,<br> you go outside and kill <br> yourself"
 ZF -- True --> ZD
 
 ```
+
